@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <declare-styleable name="Keyboard">
+        <attr name="itemPadding" format="dimension"/>
+        <attr name="numberColor" format="color"/>
+        <attr name="numberSize" format="dimension"/>
+        <attr name="itemPressBg" format="color"/>
+        <attr name="itemNormalBg" format="color"/>
+    </declare-styleable>
+    
+</resources>
